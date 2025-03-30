@@ -1,0 +1,19 @@
+.text-box h3:nth-child(odd) {
+    color:pink;
+}
+
+#greycol {
+    color: gray;
+}
+
+ p:nth-child(odd){
+    color: red;
+}
+
+p:nth-child(n + 4){
+color:green ;
+}
+
+.yellow {
+    color: yellow !important;
+}
